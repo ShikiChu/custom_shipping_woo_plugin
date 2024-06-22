@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # custom_shipping_woo_plugin
-=======
+
 Plugin Development - Shipping Options
 
 Introduction:
@@ -36,4 +36,4 @@ For API documentation: https://developer.freightcom.com/
 
 Author: Ken Chu
 Email: chu00075@algonquinlive.com
->>>>>>> master
+
